@@ -14,7 +14,7 @@ namespace Convertitre_2
             Console.WriteLine("Inserisci un numero:");
             numerodecimale = Convert.ToInt32(Console.ReadLine());
             Console.ReadLine();
-            Console.WriteLine("Inserisci un divisore");
+            Console.WriteLine("Inserisci un divisore:");
             divisore = Convert.ToInt32(Console.ReadLine());
             Console.ReadLine();
 
